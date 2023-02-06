@@ -1,6 +1,6 @@
 case class Point(x: Int, y: Int)
 
-@main def main() = 
+@main def main = 
     val p1 = Point(10, 20)
     val p2 = Point(10, 23)
     val p3 = Point(3, 42)
