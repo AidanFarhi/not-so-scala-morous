@@ -1,3 +1,4 @@
+// You can think of objects as singletons
 object IdFactory:
     private var counter = 0
     def create(): Int =
