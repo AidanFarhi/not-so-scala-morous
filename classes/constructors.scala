@@ -1,4 +1,5 @@
 
+// providing default values to parameters
 case class Point(var x: Int = 0, var y: Int = 0)
 
 @main def main = 
